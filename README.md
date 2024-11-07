@@ -11,3 +11,10 @@
 
 - wp-env: lets you easily set up a local WordPress environment for building and testing plugins and themes. It’s simple to install and requires no configuration. [Docs](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-env/) (It require Docker Knowledge)
 - VVV or Varying Vagrant Vagrants is another local development environment maintained by members of the WordPress community. It also requires a working knowledge of the command line, and an installation of VirtualBox and Vagrant.(Docs)[https://varyingvagrantvagrants.org/]
+
+## Other Useful tools:
+- [theme-check](https://wordpress.org/plugins/theme-check/)
+- [plugin-check](https://wordpress.org/plugins/plugin-check/)
+- [debug-bar](https://wordpress.org/plugins/debug-bar/)
+- [query-monitor](https://wordpress.org/plugins/query-monitor/)
+- [log-deprecated-notices](https://wordpress.org/plugins/log-deprecated-notices/)

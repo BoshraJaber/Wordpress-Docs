@@ -17,6 +17,7 @@
 - [plugin-check](https://wordpress.org/plugins/plugin-check/)
 - [debug-bar](https://wordpress.org/plugins/debug-bar/)
 - [query-monitor](https://wordpress.org/plugins/query-monitor/)
+- [Database API in Wordpress](https://developer.wordpress.org/apis/database/)
 - [log-deprecated-notices](https://wordpress.org/plugins/log-deprecated-notices/)
 
   # Language Resources:

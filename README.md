@@ -18,3 +18,8 @@
 - [debug-bar](https://wordpress.org/plugins/debug-bar/)
 - [query-monitor](https://wordpress.org/plugins/query-monitor/)
 - [log-deprecated-notices](https://wordpress.org/plugins/log-deprecated-notices/)
+
+  # Language Resources:
+- [PHP Course](https://www.freecodecamp.org/news/the-php-handbook/)
+- [PHP Docs](https://www.php.net/manual/en/getting-started.php)
+- [MySQL Course](https://www.freecodecamp.org/news/learn-mysql-beginners-course/)

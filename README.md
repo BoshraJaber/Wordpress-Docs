@@ -1,3 +1,7 @@
+# table of content
+
+- [Select Meta Box Code](./code_snippits.php)
+
 # Wordpress-Docs
 
 - WordPress runs on a tech stack called LAMP. LAMP stands for Linux, Apache, MySQL, and PHP.
